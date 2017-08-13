@@ -1,6 +1,6 @@
 {
   "name": "ks-writefile",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "Promise version of fs.writeFile",
   "main": "writeFile.js",
   "scripts": {
